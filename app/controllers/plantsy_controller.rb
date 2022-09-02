@@ -1,0 +1,3 @@
+class PlantsyController < ApplicationController
+
+end
